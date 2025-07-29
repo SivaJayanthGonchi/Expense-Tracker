@@ -1,0 +1,39 @@
+{
+  "transactions": [
+    {
+      "id": "6mg278",
+      "text": "Salary",
+      "amount": 10000,
+      "type": "Income",
+      "date": "2024-10-03"
+    },
+    {
+      "id": "noxrh9",
+      "text": "Salary",
+      "amount": 10000,
+      "type": "Income",
+      "date": "2024-11-02"
+    },
+    {
+      "id": "qdw7ns",
+      "text": "Food",
+      "amount": 2000,
+      "type": "Expense",
+      "date": "2024-11-25"
+    },
+    {
+      "id": "lqquu5",
+      "text": "Rent",
+      "amount": 1100,
+      "type": "Expense",
+      "date": "2024-11-25"
+    },
+    {
+      "id": "kdh6wd",
+      "text": "Rent",
+      "amount": 10000,
+      "type": "Expense",
+      "date": "2024-11-26"
+    }
+  ]
+}
